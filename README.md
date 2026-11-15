@@ -1,5 +1,9 @@
 # VAULTBREAK — Bank Heist Tactical FPS
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/agusher21/threejs-fps-02-v2/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/agusher21/threejs-fps-02-v2/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
 A round-based tactical first-person shooter in the style Counter-Strike made famous, set entirely inside a bank. The Crew pushes through the lobby and the side corridors to plant a breaching charge on the vault door; the Vault Guard holds the angles, the vault, and the defuse.
 
 ## The game
@@ -55,3 +59,7 @@ No build step, no network requests — three.js 0.187.0 is vendored under `game/
 ## License
 
 MIT. See LICENSE.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=w513bxaz&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
